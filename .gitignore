@@ -4,6 +4,9 @@
 *.log
 *.pyc
 *.swp
+.idea/
+*.iml
+!pubspec.lock
 .buildlog/
 .history
 
